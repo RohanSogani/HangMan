@@ -1,4 +1,4 @@
-Hangman Game to learn Python Basics
+Hangman Game to review Python Basics
 
 Using Python 3
 
